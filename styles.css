@@ -284,6 +284,10 @@ h6 {
   border-bottom: 3px solid #149ddd;
 }
 
+.hire-me{
+  margin: 0 40%;
+}
+
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
